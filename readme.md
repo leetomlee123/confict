@@ -1,2 +1,2 @@
 #see uxgti scs
-server修改
+client修改
